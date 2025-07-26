@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hilmy</h1>
 <h3 align="center">Bercita-cita Tinggi 🚀</h3>
 
+
+![snake gif](https://github.com/Mhvanreal/snk/blob/output/github-contribution-grid-snake.gif?raw=true)
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 
 - 🔭 I’m currently working on: Laravel & Flutter Projects  
